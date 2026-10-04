@@ -1,7 +1,10 @@
 ---
-schema_version: 10
+schema_version: 11
 type: tests
+category_override: none
 file_count: 1
+file_extensions: md:2
+file_extensions_updated: 2026-10-04
 avg_lines_per_file: 5
 total_lines: 0
 metrics_lm: 2026-10-04 16:02:36
